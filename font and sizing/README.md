@@ -8,5 +8,5 @@
     @tailwind components;
     @tailwind utilities;
 5.  In your tailwind.configjs file replace content: [ ], with content: ["*"],
-6.  Add "start": vite" to your scripts in package.json
+6.  Add "start": "vite" to your scripts in package.json
 7.  Run npm run start command to start a dev server
