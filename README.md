@@ -1,4 +1,4 @@
-####tailwind installation
+#### tailwind installation
 ## To setup tailwind css, run these commands
 
 > must install Tailwind CSS IntelliSense in vscode
