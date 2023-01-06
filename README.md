@@ -48,3 +48,13 @@ module.exports = {
   }
 ```
 8.  Run npm run start command to start a dev server
+9. create .vscode folder in root directory and create settings.json file in it. put this code and save it
+
+```
+{
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true
+}
+
+```
+
